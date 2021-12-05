@@ -19,7 +19,7 @@ You can use: Firefox, Google Chrome, Microsoft Edge, Brave and others except Int
 
 ## Credits
 The main websites used as reference to plan the photos and wireframes for London in a Week were<br>
-<a href="https://visithumboldt.com/">Visit Humboldt</a>,<a href="https://onthegrid.city/#cities">On the Grid</a>
+<a href="https://visithumboldt.com/">Visit Humboldt</a>, <a href="https://onthegrid.city/#cities">On the Grid</a>
 and <a href="https://adventure.com/">Adventure.com.</a><br>
 The selected places to visit and take pictures were researched through the websites below:<br>
 <a href="https://www.londonchildrensmuseum.ca/">https://www.londonchildrensmuseum.ca/</a><br>
